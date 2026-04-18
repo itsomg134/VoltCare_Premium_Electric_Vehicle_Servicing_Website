@@ -7,8 +7,6 @@
 
 **VoltCare** is a modern, fully responsive front-end website designed for an electric vehicle (EV) servicing business. It showcases services, integrates a booking form, and provides a sleek user experience tailored to EV owners.
 
-![VoltCare Hero Preview](https://via.placeholder.com/800x400?text=VoltCare+EV+Servicing+Preview)
-
 ##  Features
 
 - **Hero Section** – Engaging headline with key stats (EVs serviced, rating, express service)
