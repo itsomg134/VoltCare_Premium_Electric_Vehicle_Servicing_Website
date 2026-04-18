@@ -28,9 +28,9 @@
 | <img width="1884" height="848" alt="image" src="https://github.com/user-attachments/assets/6964d3c1-3d26-4f6c-b05f-622b0b4e089d" />
 | <img width="1885" height="1409" alt="image" src="https://github.com/user-attachments/assets/b38d301e-ab67-4a3c-a9a9-f04d95ae7681" />|
 
-| Booking CTA | Mobile View |
-|-------------|--------------|
-| ![Booking](https://via.placeholder.com/400x250?text=Booking+Form) | ![Mobile](https://via.placeholder.com/400x250?text=Responsive) |
+| Booking Mobile View |
+|-------------|
+|<img width="1876" height="946" alt="image" src="https://github.com/user-attachments/assets/f2b6bfbd-7995-4614-aae7-52ec45bc3604" />
 
 ---
 
