@@ -25,7 +25,8 @@
 
 | Hero Section | Services Grid |
 |--------------|---------------|
-| ![Hero](https://via.placeholder.com/400x250?text=Hero+Section) | ![Services](https://via.placeholder.com/400x250?text=Services) |
+| <img width="1884" height="848" alt="image" src="https://github.com/user-attachments/assets/6964d3c1-3d26-4f6c-b05f-622b0b4e089d" />
+ | ![Services](https://via.placeholder.com/400x250?text=Services) |
 
 | Booking CTA | Mobile View |
 |-------------|--------------|
